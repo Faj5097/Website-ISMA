@@ -10101,6 +10101,8 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   background-color: #000000;
 }
 #mainNav .navbar-toggler {
